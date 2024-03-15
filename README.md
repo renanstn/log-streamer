@@ -2,7 +2,7 @@
 
 ## Objective
 
-Allow to use my old phone as a "monitor" to show logs recorded in files.
+This little app just set ups a Flask application to serve a log file across my local network. With this, I can repurpose my old smartphone as a "third monitor" to monitor logs from other apps I'm developing.
 
 ## Stack
 
